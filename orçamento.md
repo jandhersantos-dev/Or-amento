@@ -13,4 +13,5 @@
 |**Teclado** |Redragon Kumara |`R$ 159,99` |[Kabum](https://www.kabum.com.br/produto/89171/teclado-mecanico-gamer-redragon-kumara-anti-ghosting-led-vermelho-switch-outemu-blue-abnt2-preto-k552-2-pt-blue-?utm_id=21416437422&gad_source=1&gclid=EAIaIQobChMI4-HqlLK2igMV0UFIAB3EFBkYEAQYDCABEgI7_PD_BwE) |
 |**Som** |Caixa de Som Gamer Redragon Anvil RGB |`R$ 179,90` |[Kabum](https://www.kabum.com.br/produto/150886/caixa-de-som-gamer-redragon-anvil-rgb-stereo-2-0-5w-usb-p2-led-rgb-gs520) |
 |**Headset** |HyperX Cloud Stinger 2 |`R$ 169,99` |[Kabum](https://www.kabum.com.br/produto/461160/headset-gamer-hyperx-cloud-stinger-2-drivers-50mm-p3-preto-519t1aa?utm_id=21437971630&gad_source=1&gclid=EAIaIQobChMIz-_-5LK2igMVoF5IAB3dzjRZEAQYAiABEgL0bfD_BwE) |
+
 **Preço total:** ``R$ 5.471,47``
